@@ -8,15 +8,8 @@ Here is my python source code for training an agent to play flappy bird. It coul
   <i>Result</i>
 </p>
 
-## How to use my code
 
-With my code, you can:
-* **Train your model from scratch** by running **python train.py**
-* **Test your trained model** by running **python test.py**
 
-## Trained models
-
-You could find my trained model at **trained_models/flappy_bird**
  
 ## Requirements
 
